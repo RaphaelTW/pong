@@ -6,6 +6,7 @@ Version v0.7.3 | June 22, 2020
 CC BY-NC-SA 4.0
 */
 
+//este arquivo já peguei feito só foi adaptado algumas coisas para o meu projeto
 
 console.log("Ping Pong")
 
